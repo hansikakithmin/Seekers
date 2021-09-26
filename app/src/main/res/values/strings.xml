@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ActivitiesToDo</string>
+    <string name="txtSetdate1">Set Date</string>
+    <string name="txtNumofparticipants1">Number of Participants</string>
+    <string name="btnSelect1">Select</string>
+    <string name="txtSetdate2">Set Date</string>
+    <string name="txtNumofparticipants2">Number of Participants</string>
+    <string name="btnSelect2">Select</string>
+    <string name="txtSetdate3">Set Date</string>
+    <string name="txtNumofparticipants3">Number of Participants</string>
+    <string name="btnSelect3">Select</string>
+    <string name="txtSetdate4">Set Date</string>
+    <string name="txtNumofparticipants4">Number of Participants</string>
+    <string name="btnSelect4">Select</string>
+    <string name="txtSetdate5">Set Date</string>
+    <string name="txtNumofparticipants5">Number of Participants</string>
+    <string name="btnSelect5">Select</string>
+    <string name="btnSelect6">Select</string>
+    <string name="txtSetdate6">Set Date</string>
+    <string name="txtNumofparticipants6">Number of Participants</string>
+    <string name="btn1">more info</string>
+    <string name="btn2">more info</string>
+    <string name="btn3">more info</string>
+    <string name="btn4">more info</string>
+    <string name="btn5">more info</string>
+    <string name="btn6">more info</string>
+    <string name="txtnp1">Camping And Bird Watching</string>
+    <string name="txtnp2">Dolphin And Whale Watching</string>
+    <string name="txtnp3">Water Sports</string>
+    <string name="txtnp4">Adventures</string>
+    <string name="txtp1">Special Rainforest Trail(Premium)</string>
+    <string name="txtp2">Traditional Handcraft Factory Experience(Premium)</string>
+</resources>
